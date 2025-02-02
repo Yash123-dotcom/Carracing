@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0a95a169e840c8e45b59c1a552caadf3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crashSoundClip: {fileID: 8300000, guid: a30cefd98ef553e40b3859d03ca33591, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
